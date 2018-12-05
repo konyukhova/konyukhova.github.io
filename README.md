@@ -39,3 +39,5 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 ## ![Сертификат о прохождении онлайн-курса](https://pp.userapi.com/c850024/v850024808/d442d/7Qd0-CnHagE.jpg)
 
 [Задания 9.1. и 9.2.](https://drive.google.com/file/d/1C7iJzOchvDgin63gO6X4KOTgS1lFoTW_/view?usp=sharing)
+
+[Задания 11.1. и 11.2](https://drive.google.com/file/d/1BbtJzLDzVRcwND4_5aW4Uv7Rt7sg4YHd/view?usp=sharing)
