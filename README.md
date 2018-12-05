@@ -18,5 +18,7 @@
 BSD | Да | Нет | Нет | Нет | Нет | Да
 Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
+## Задания из MoodleHerzen
 
+[Задания 1.1. и 1.2.](https://drive.google.com/file/d/1ctWOHxAqdyYcjhdqtDnn9gamInxaoq1c/view)
 
