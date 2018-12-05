@@ -20,11 +20,13 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 ## Задания из MoodleHerzen
 
-[Задания 1.1. и 1.2.](https://drive.google.com/file/d/1ctWOHxAqdyYcjhdqtDnn9gamInxaoq1c/view)
+[Задания 1.1. и 1.2.](https://drive.google.com/file/d/1ctWOHxAqdyYcjhdqtDnn9gamInxaoq1c/view?usp=sharing)
+[Задание 1.1 (в виде презентации)](https://drive.google.com/file/d/1yKH1aDrSJXpyHLcCAhOJ_vGAx3URXle4/view?usp=sharing)
 [Задания 2.1. и 2.2.](https://drive.google.com/file/d/153w9qhNWpBjNpXrk2I1abizcT2NY5kPX/view?usp=sharing)
 [Задание 3](https://drive.google.com/file/d/1chwUHFgM6QvBZscu5Y4d9HNvbAWVukz2/view?usp=sharing)
 [Задание 4.1](https://drive.google.com/file/d/1gSbj_r8weSm-8-Ivhd_nKUKxrTR0szcP/view?usp=sharing) 
 [Задания 5.1 и 5.2](https://drive.google.com/file/d/1c146CBWmR87kV1eU72xYYbgAz4F7i5ZH/view?usp=sharing)
 [Задание 6](https://drive.google.com/file/d/1OopqzB6kteH5igPUM1QKkkl_bUYbz0AA/view?usp=sharing)
 [Задание 7](https://drive.google.com/file/d/1cZeTuAUacbJ4G1WT0NSDVNNycQPGHq4j/view?usp=sharing)
-## [Сертификат о прохождении онлайн-курса](https://pp.userapi.com/c850024/v850024808/d442d/7Qd0-CnHagE.jpg)
+## ![Сертификат о прохождении онлайн-курса](https://pp.userapi.com/c850024/v850024808/d442d/7Qd0-CnHagE.jpg)
+[Задания 9.1. и 9.2.](https://drive.google.com/file/d/1C7iJzOchvDgin63gO6X4KOTgS1lFoTW_/view?usp=sharing)
