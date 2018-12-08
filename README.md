@@ -56,4 +56,4 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 ## Screencast + cубтитры
 
-## ![FASTER!!! CLICK HERE!!!](https://s00.yaplakal.com/pics/pics_original/3/8/7/3404783.jpg (https://www.youtube.com/watch?v=aHYrntCQv98)
+![FASTER!!! CLICK HERE!!!](https://www.youtube.com/watch?v=aHYrntCQv98)
