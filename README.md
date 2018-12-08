@@ -54,4 +54,6 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 [Задание на выбор В 10.2](https://drive.google.com/file/d/1zX1QtwxWm_rl5q-IykyC5P2p4oU3EA9D/view?usp=sharing)
 
-## [![Screencast + cубтитры](https://www.youtube.com/watch?v=aHYrntCQv98)
+## Screencast + cубтитры
+
+![FASTER!!! CLICK HERE!!!](https://s00.yaplakal.com/pics/pics_original/3/8/7/3404783.jpg(https://www.youtube.com/watch?v=aHYrntCQv98)
