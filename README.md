@@ -48,6 +48,4 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 [Задание на выбор В 6.2](https://drive.google.com/file/d/16zxsn8T10k-GBNydAichWgSnwFjdqB6X/view?usp=sharing)
 
-## [Screencast + cубтитры]
-
-(https://www.youtube.com/watch?v=aHYrntCQv98)
+## [Screencast + cубтитры](https://www.youtube.com/watch?v=aHYrntCQv98)
