@@ -48,4 +48,10 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 [Задание на выбор В 6.2](https://drive.google.com/file/d/16zxsn8T10k-GBNydAichWgSnwFjdqB6X/view?usp=sharing)
 
-## [Screencast + cубтитры](https://www.youtube.com/watch?v=aHYrntCQv98)
+[Задания на выбор В 8.1](https://drive.google.com/file/d/1lDInvWK5LxONFx08iW5Ydd9MTBu1DcVt/view?usp=sharing)
+
+[Задание на выбор В 9.2](https://drive.google.com/file/d/1_m_q3lnZ5n8_S1thK5ix-0dHvPecNsP7/view?usp=sharing)
+
+[Задание на выбор В 10.2](https://drive.google.com/file/d/1zX1QtwxWm_rl5q-IykyC5P2p4oU3EA9D/view?usp=sharing)
+
+## [![Screencast + cубтитры](https://www.youtube.com/watch?v=aHYrntCQv98)
