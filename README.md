@@ -56,4 +56,4 @@ Apache   software license | Да | Нет | Да | Нет | Нет | Да
 
 ## Screencast + cубтитры
 
-![FASTER!!! CLICK HERE!!!](https://www.youtube.com/watch?v=aHYrntCQv98)
+[FASTER!!! CLICK HERE!!!](https://www.youtube.com/watch?v=aHYrntCQv98)
